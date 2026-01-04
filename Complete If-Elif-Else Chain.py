@@ -1,4 +1,4 @@
-temperature = 22
+temperature = 25
 
 if temperature > 30:
   print("It's hot outside!")
